@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java and Python
-- 📫 How to reach me: ferm.rocha.miranda@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read
 <!--<div align="center">
