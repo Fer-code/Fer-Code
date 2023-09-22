@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Python
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read
-<!--<div align="center">
+  <div align="center">
   <a href="https://github.com/Fer-Code">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Fer-Code&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-Code&layout=compact&langs_count=7&theme=synthwave"/>
@@ -17,6 +17,6 @@
   <img align="center" alt="Fe-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fe-android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 
-</div>-->
+</div>
   
   ##
